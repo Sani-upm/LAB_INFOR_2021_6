@@ -1,2 +1,5 @@
 log.txt
-/.vs
+
+# SQL Server files
+*.mdf
+*.ldf
