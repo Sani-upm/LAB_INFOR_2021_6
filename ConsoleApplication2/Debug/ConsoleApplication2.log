@@ -1,0 +1,13 @@
+﻿  ConsoleApplication2.cpp
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp__glutInitWindowSize@8 sin resolver al que se hace referencia en la función _main
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp__glutInitDisplayMode@4 sin resolver al que se hace referencia en la función _main
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp__glutMainLoop@0 sin resolver al que se hace referencia en la función _main
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp__glutSwapBuffers@0 sin resolver al que se hace referencia en la función "void __cdecl OnDraw(void)" (?OnDraw@@YAXXZ)
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp__glutTimerFunc@12 sin resolver al que se hace referencia en la función _main
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp__glutKeyboardFunc@4 sin resolver al que se hace referencia en la función _main
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp__glutDisplayFunc@4 sin resolver al que se hace referencia en la función _main
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp__glutWireCube@8 sin resolver al que se hace referencia en la función "void __cdecl OnDraw(void)" (?OnDraw@@YAXXZ)
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp____glutInitWithExit@12 sin resolver al que se hace referencia en la función _glutInit_ATEXIT_HACK@8
+ConsoleApplication2.obj : error LNK2019: símbolo externo __imp____glutCreateWindowWithExit@8 sin resolver al que se hace referencia en la función _glutCreateWindow_ATEXIT_HACK@4
+freeglut.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\sanim\Source\Repos\LAB_INFOR_2021_6\ConsoleApplication2\Debug\ConsoleApplication2.exe : fatal error LNK1120: 10 externos sin resolver
