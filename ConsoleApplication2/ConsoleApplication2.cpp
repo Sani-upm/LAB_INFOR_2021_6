@@ -4,6 +4,8 @@
 #include <iostream>
 
 #include "freeglut.h"
+#include "Esfera.h"
+#include "Mundo.h"
 
 //los callback, funciones que seran llamadas automaticamente por la glut
 //cuando sucedan eventos
